@@ -1,1 +1,1 @@
-# CNN_projects
+Convolutional Neural Network projects
